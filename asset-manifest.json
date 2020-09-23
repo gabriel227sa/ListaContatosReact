@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ListaContatosReact/static/css/main.a81c2b05.chunk.css",
+    "main.js": "/ListaContatosReact/static/js/main.256d1ec7.chunk.js",
+    "main.js.map": "/ListaContatosReact/static/js/main.256d1ec7.chunk.js.map",
+    "runtime-main.js": "/ListaContatosReact/static/js/runtime-main.97813552.js",
+    "runtime-main.js.map": "/ListaContatosReact/static/js/runtime-main.97813552.js.map",
+    "static/js/2.f188a52d.chunk.js": "/ListaContatosReact/static/js/2.f188a52d.chunk.js",
+    "static/js/2.f188a52d.chunk.js.map": "/ListaContatosReact/static/js/2.f188a52d.chunk.js.map",
+    "index.html": "/ListaContatosReact/index.html",
+    "precache-manifest.d2a6e17639ecc3c4b779f033ac0ea0f5.js": "/ListaContatosReact/precache-manifest.d2a6e17639ecc3c4b779f033ac0ea0f5.js",
+    "service-worker.js": "/ListaContatosReact/service-worker.js",
+    "static/css/main.a81c2b05.chunk.css.map": "/ListaContatosReact/static/css/main.a81c2b05.chunk.css.map",
+    "static/js/2.f188a52d.chunk.js.LICENSE.txt": "/ListaContatosReact/static/js/2.f188a52d.chunk.js.LICENSE.txt",
+    "static/media/logo.82a7c062.svg": "/ListaContatosReact/static/media/logo.82a7c062.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97813552.js",
+    "static/js/2.f188a52d.chunk.js",
+    "static/css/main.a81c2b05.chunk.css",
+    "static/js/main.256d1ec7.chunk.js"
+  ]
+}
